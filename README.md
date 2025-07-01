@@ -22,3 +22,4 @@ This repository contains projects built as part of the SEQATO LLM Awareness and 
 ## 📝 Learning Log
 See [`learning_log.md`](./learning_log.md) for weekly progress.
 
+📄 [Phase 1 Design Document](./Phase1-Design-Document.docx)
